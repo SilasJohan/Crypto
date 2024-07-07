@@ -1,0 +1,28 @@
+
+.container {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#number {
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin-top: 170px;
+    
+}
+
+#incrementButton {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  
+}
+
+#regret{
+    font-size: 30px;
+    
+   
+
+}
